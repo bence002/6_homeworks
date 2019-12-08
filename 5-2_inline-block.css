@@ -12,3 +12,7 @@ body {
 .highlight,.share {
     display: inline-block;
 }
+
+strong {
+    text-decoration: underline;
+}
