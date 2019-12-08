@@ -4,16 +4,22 @@ body {
     line-height: 1.33;
     color: #4a4a4a;
     width: 280px;
+    margin: 12px;
 }
 
 .share {
     height: 10px;
 }
 
-a .share {
+.highlight {
     display: inline-block;
+    color: #4a4a4a;
+    text-decoration: underline;
 }
 
-a {
-    color: #4a4a4a;
+.with-background {
+    display: inline-block;
+    background-color: #ffb6c1;
+    padding: 3px 4px;
+    text-decoration: underline;
 }
